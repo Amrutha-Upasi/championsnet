@@ -1,0 +1,13 @@
+name: Facebook Album
+type: module
+description: Adds a block for viewing Facebook albums
+# core: 8.x
+package: Media
+dependencies:
+  - block
+
+# Information added by Drupal.org packaging script on 2016-09-13
+version: '8.x-1.2'
+core: '8.x'
+project: 'facebook_album'
+datestamp: 1473740985
